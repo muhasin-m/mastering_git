@@ -1,5 +1,3 @@
-## Hello everyone, welcome to Git!
-
-- Muhasin here
+## Hello, Git!
 
 - I'm adding this from `feature-branch`
